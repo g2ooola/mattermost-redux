@@ -46,7 +46,7 @@ export default {
     CATEGORY_THEME: 'theme',
     THEMES: {
         default: {
-            type: 'Kdan',
+            type: 'Mattermost',
             sidebarBg: '#009082',
             sidebarText: '#ffffff',
             sidebarUnreadText: '#ffffff',
