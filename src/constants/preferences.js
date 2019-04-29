@@ -58,7 +58,7 @@ export default {
             onlineIndicator: '#06d6a0',
             awayIndicator: '#ffbc42',
             dndIndicator: '#f74343',
-            mentionBg: '#ffffff',
+            mentionBj: '#ffffff',
             mentionColor: '#145dbf',
             centerChannelBg: '#ffffff',
             centerChannelColor: '#3d3c40',
